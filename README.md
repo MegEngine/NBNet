@@ -2,6 +2,16 @@
 
 Code for CVPR21 paper [NBNet](https://arxiv.org/abs/2012.15028).
 
+
+
+<img src="./Fig/fig2.png" alt="projection_concept" style="zoom:50%;" />
+
+## Dependencies
+
+- MegEngine >= 1.3.1 (For DistributedDataParallel)
+
+
+
 ## Training
 
 ### Preparation
