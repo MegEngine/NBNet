@@ -2,9 +2,9 @@
 
 Code for CVPR21 paper [NBNet](https://arxiv.org/abs/2012.15028).
 
+<u>*The illustration of our key insight:*</u>
 
-
-<img src="./Fig/fig2.png" alt="projection_concept" style="zoom:50%;" />
+<img src="./Fig/fig2.png" alt="projection_concept" style="zoom:100%;" />
 
 ## Dependencies
 
