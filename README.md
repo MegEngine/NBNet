@@ -38,6 +38,14 @@ For DnD benchmark,  we use MixUp additionally:
 python train_mge.py -d prepared_data_path -n num_gpus --dnd
 ```
 
+### Begin testing:
+Download the pretrained checkpoint and use:
+
+```
+python test.py -d prepared_data_path -c checkpoint_path
+```
+The result is **PSNR 39.765**.
+
 
 
 ## Pretrained model

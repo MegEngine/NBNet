@@ -23,7 +23,7 @@ logging = megengine.logger.get_logger()
 
 def main():
     parser = argparse.ArgumentParser(description="MegEngine NBNet")
-    parser.add_argument("-d", "--data", default="/data/sidd", metavar="DIR", help="path to imagenet dataset")
+    parser.add_argument("-d", "--data", default="/data/sidd", metavar="DIR", help="path to sidd dataset")
     parser.add_argument("--dnd", action='store_true', help="training for dnd benchmark")
     parser.add_argument(
         "-a",
