@@ -42,4 +42,7 @@ python train_mge.py -d prepared_data_path -n num_gpus --dnd
 
 ## Pretrained model
 
-MegEngine checkpoint for SIDD benchmark  can be found [here](https://drive.google.com/file/d/1RPAf9ZJqqq9ePPVTtJRlixX4-h3HJTCc/view?usp=sharing)
+MegEngine checkpoint for SIDD benchmark can be downloaded via 
+[Google Drive](https://drive.google.com/file/d/1RPAf9ZJqqq9ePPVTtJRlixX4-h3HJTCc/view?usp=sharing)
+or
+[GitHub Release](https://github.com/megvii-research/NBNet/releases).
